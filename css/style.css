@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+.row{
+    margin-top: 20px;
+    padding: 20px;
+    border: 0.4px solid black;
+}
+.sub-card-prants{
+    margin: auto;
+    box-shadow: 3px 5px 10px gray;  
+}
+.sub-card-prants h5, p, h5{
+    color: gold;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #C22A96 0%, #FF008B  100%);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-radius: 5px;
+    color: white;
+}
